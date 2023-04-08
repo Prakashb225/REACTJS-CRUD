@@ -2,7 +2,7 @@
   "name": "crudapp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://Prakashb225.github.io/CRUD_app",
+  "homepage": "http://Prakashb225/REACTJS-CRUD",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
